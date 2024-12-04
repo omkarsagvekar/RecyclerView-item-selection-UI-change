@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="color_item_selected">
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+    </style>
+
+    <style name="color_after_search_type_unselected">
+        <item name="android:textColor">
+            #000A11
+        </item>
+    </style>
+</resources>
